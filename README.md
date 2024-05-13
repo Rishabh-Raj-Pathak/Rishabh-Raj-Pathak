@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/rishabhrpathak" target="blank"><img src="https://img.shields.io/twitter/follow/rishabhrpathak?logo=twitter&style=for-the-badge" alt="rishabhrpathak" /></a> </p>
 
-- 🔭 I’m currently working on **Chat Application**
+- 🔭 I’m currently working on **Code Cohort**
 
 - 🌱 I’m currently learning **Full stack web development**
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
-- 💬 Ask me about **MERN,TypeScript,Next.js**
+- 💬 Ask me about **MERN,TypeScript,Next.js,SQL**
 
 - 📫 How to reach me **rishabhrajpathak06@gmail.com**
 
