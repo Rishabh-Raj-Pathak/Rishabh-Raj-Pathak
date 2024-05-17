@@ -1,16 +1,15 @@
 <img src="intro.gif" width="100%">
 
 <p align="center">
-  <a href="www.linkedin.com/in/rishabh-raj-pathak-13bb9b21a" target="_blank">
+  <a href="https://www.linkedin.com/in/rishabh-raj-pathak-13bb9b21a/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKEDIN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
   <a href="https://x.com/rishabhXraj" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
   </a>
- <a href="
-https://drive.google.com/file/d/1mvHYj70quCpePrIuJYFRJncR593g-uaV/view?usp=drivesdk" target="_blank">
+<!--  <a href="https://drive.google.com/file/d/1mvHYj70quCpePrIuJYFRJncR593g-uaV/view?usp=drivesdk" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
-  </a>
+  </a> -->
 </p>
 
 <h1 align="center">Greetings 👋, I'm Rishabh Raj Pathak</h1>
@@ -33,9 +32,9 @@ https://drive.google.com/file/d/1mvHYj70quCpePrIuJYFRJncR593g-uaV/view?usp=drive
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rishabhXraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishabhrpathak" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rishabh raj pathak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishabh raj pathak" height="30" width="40" /></a>
-<a href="https://medium.com/rishabh raj pathak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="rishabh raj pathak" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rishabhrpathak06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rishabhrpathak06" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rishabh-raj-pathak-13bb9b21a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishabh raj pathak" height="30" width="40" /></a>
+<!-- <a href="https://medium.com/rishabh raj pathak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="rishabh raj pathak" height="30" width="40" /></a> -->
+<a href="https://leetcode.com/u/RishabhRPathak06/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rishabhrpathak06" height="30" width="40" /></a>
 </p>
 
 <h1 align="center">Technologies</h1>
