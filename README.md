@@ -14,7 +14,7 @@
 
 <h1 align="center">Greetings 👋, I'm Rishabh Raj Pathak</h1>
 <h4 align="center">I'm a developer with the interest of building projects, Data Structures and Algorithms, Fullstack. Basically a software enthusiast in the digital realm.</h4>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png">
+<!-- <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png"> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabh-raj-pathak&label=Profile%20views&color=0e75b6&style=flat" alt="rishabh-raj-pathak" /> </p>
 
 <p align="left"> <a href="https://twitter.com/rishabhrpathak" target="blank"><img src="https://img.shields.io/twitter/follow/rishabhrpathak?logo=twitter&style=for-the-badge" alt="rishabhrpathak" /></a> </p>
