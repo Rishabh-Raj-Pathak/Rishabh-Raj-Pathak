@@ -19,7 +19,7 @@
 
 <p align="left"> <a href="https://twitter.com/rishabhrpathak" target="blank"><img src="https://img.shields.io/twitter/follow/rishabhrpathak?logo=twitter&style=for-the-badge" alt="rishabhrpathak" /></a> </p>
 
-- 🔭 I’m currently working on [Code Cohort](https://codecohort-nine.vercel.app) and [CP-Track](https://github.com/Rishabh-Raj-Pathak/Contest-Tracker)
+- 🔭 I’m currently working on [Code Cohort](https://codecohort-nine.vercel.app) and [CP-Track](https://cp-track.vercel.app/)
 
 - 🌱 I’m currently learning **Full stack web development**
 
