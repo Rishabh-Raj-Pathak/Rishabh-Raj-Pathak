@@ -1,4 +1,4 @@
-<img src="intro.gif" width="100%">
+<img src="Rimberio.gif" width="100%">
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rishabh-raj-pathak-13bb9b21a/" target="_blank">
